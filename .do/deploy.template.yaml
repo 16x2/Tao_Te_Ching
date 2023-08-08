@@ -1,0 +1,7 @@
+spec:
+  name: sample-html
+  static_sites:
+  - git:
+      branch: master
+      repo_clone_url: https://github.com/16x2/Tao_Te_Ching.git
+    name: sample-html
